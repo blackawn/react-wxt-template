@@ -12,7 +12,7 @@ const App = () => {
             hashed: false,
             algorithm: darkTheme
               ? antdTheme.darkAlgorithm
-              : antdTheme.defaultAlgorithm,
+              : antdTheme.defaultAlgorithm
           }}
         >
           <Layout />

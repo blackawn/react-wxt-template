@@ -20,6 +20,7 @@
     "lint:fix": "eslint ./entrypoints --fix"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.3.7",
     "antd": "^5.19.1",
     "clsx": "^2.1.1",
     "react": "^18.3.1",
