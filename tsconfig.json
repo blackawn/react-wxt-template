@@ -4,12 +4,5 @@
     "allowImportingTsExtensions": true,
     "jsx": "react-jsx",
     "allowJs": true
-  },
-  "include": [
-    ".plasmo/index.d.ts",
-    "./**/*.ts",
-    "./**/*.tsx",
-    "tailwind.config.js",
-    "./types/**/*.d.ts",
-  ],
+  }
 }
